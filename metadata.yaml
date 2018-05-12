@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1084
     wikipedia: http://en.wikipedia.org/wiki/Allen_Johnson_(historian)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18941#The-Fight-for-a-Free-Sea--A-Chronicle-of-the-War-of-1812The-Chronicles-of-America-Series-Volu_
 gutenberg_bookshelf:
 - Children's History
 - United States
