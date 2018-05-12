@@ -1,0 +1,42 @@
+_repo: The-Fight-for-a-Free-Sea--A-Chronicle-of-the-War-of-1812The-Chronicles-of-America-Series-Volu__18941
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Paine, Ralph Delahaye
+    alias: Paine, Ralph D. (Ralph Delahaye)
+    birthdate: 1871
+    deathdate: 1925
+    gutenberg_agent_id: '1113'
+    url: http://www.gutenberg.org/2009/agents/1113
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Delahaye_Paine
+  editor:
+    agent_name: Johnson, Allen
+    birthdate: 1870
+    deathdate: 1931
+    gutenberg_agent_id: '1084'
+    url: http://www.gutenberg.org/2009/agents/1084
+    wikipedia: http://en.wikipedia.org/wiki/Allen_Johnson_(historian)
+description: ''
+gutenberg_bookshelf:
+- Children's History
+- United States
+gutenberg_issued: '2006-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18941'
+language: en
+publication_note: '[S.l. :  s.n.],  1920'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Chronicles of America series; v. 17
+subjects:
+- !lcsh 'United States -- History -- War of 1812'
+- !lcc 'E300'
+title: 'The Fight for a Free Sea: A Chronicle of the War of 1812
+
+  The Chronicles of America Series, Volume 17'
+url: http://www.gutenberg.org/ebooks/18941
